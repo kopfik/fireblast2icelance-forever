@@ -1,0 +1,6 @@
+## Interface: 16001
+## Title: FireBlast2IceLance
+## Notes: Shows the Ice Lance icon for Fire Blast in Blizzard's Cooldown Manager bars (only there).
+## Version: 0.1
+
+FireBlast2IceLance.lua
